@@ -38,12 +38,12 @@ OpenSpending.Styles.Cofog = {
   '9-1': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#935B3B' }, // 消防費
   '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育費
   '10-1': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育費
-  '11': { icon: 'icons/restoration.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費
-  '11-1': { icon: 'icons/restoration.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費
+  '11': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費
+  '11-1': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費
   '12': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#935B3B' }, // 公債費
   '12-1': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#935B3B' }, // 公債費
-  '13': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#935B3B' }, // 予備費
-  '13-1': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#935B3B' }, // 予備費
+  '13': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#935B3B' }, // 予備費
+  '13-1': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#935B3B' }, // 予備費
 };
 
 
