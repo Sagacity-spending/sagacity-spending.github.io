@@ -19,18 +19,31 @@ OpenSpending.Styles.Cofog = {
 
   /* sagacity cofog */
   '1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, // 議会費
+  '1-1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, // 議会費
   '2': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#935B3B' }, // 総務費
+  '2-1': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#935B3B' }, // 総務費
   '3': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#935B3B' }, // 民生費
+  '3-1': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#935B3B' }, // 民生費
   '4': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#935B3B' }, // 衛生費
+  '4-1': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#935B3B' }, // 衛生費
   '5': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#935B3B' }, // 労働費
+  '5-1': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#935B3B' }, // 労働費
   '6': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#935B3B' }, // 農林水産業費
+  '6-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#935B3B' }, // 農林水産業費
   '7': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#935B3B' }, // 商工費
+  '7-1': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#935B3B' }, // 商工費
   '8': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#935B3B' }, // 土木費
+  '8-1': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#935B3B' }, // 土木費
   '9': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#935B3B' }, // 消防費
+  '9-1': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#935B3B' }, // 消防費
   '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育費
+  '10-1': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#935B3B' }, // 教育費
   '11': { icon: 'icons/restoration.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費
+  '11-1': { icon: 'icons/restoration.svg', color: '#C75746', bcolor: '#935B3B' }, // 災害復旧費
   '12': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#935B3B' }, // 公債費
+  '12-1': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#935B3B' }, // 公債費
   '13': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#935B3B' }, // 予備費
+  '13-1': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#935B3B' }, // 予備費
 };
 
 
