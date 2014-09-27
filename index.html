@@ -28,13 +28,13 @@ yepnope({
 
        var db = new OpenSpending.DailyBread($('#dailybread'));
        new OpenSpending.Aggregator({
-           apiUrl: 'http://openspending.org/api',
+           apiUrl: 'https://openspending.org/api',
            //localApiCache: 'aggregate.json',
            dataset: OpenSpending.identifier,
-           drilldowns: ['category', 'subcategory'],
+           drilldowns: ['Category', 'Subcategory'],
            cuts: ['year:' + OpenSpending.year],
            rootNodeLabel: 'Total',
-           breakdown: 'subcategory',
+           breakdown: 'Subcategory',
            callback: function(data) {
 
             $('#content-wrap').show();
